@@ -1,0 +1,22 @@
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\bin\Debug\net5.0-windows\MoreThanLight Launcher.exe
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\bin\Debug\net5.0-windows\MoreThanLight Launcher.deps.json
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\bin\Debug\net5.0-windows\MoreThanLight Launcher.runtimeconfig.json
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\bin\Debug\net5.0-windows\MoreThanLight Launcher.runtimeconfig.dev.json
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\bin\Debug\net5.0-windows\MoreThanLight Launcher.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\bin\Debug\net5.0-windows\ref\MoreThanLight Launcher.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\bin\Debug\net5.0-windows\MoreThanLight Launcher.pdb
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher_MarkupCompile.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher_MarkupCompile.lref
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.g.resources
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.AssemblyInfoInputs.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.AssemblyInfo.cs
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\ref\MoreThanLight Launcher.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.pdb
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.genruntimeconfig.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\More_than_lie\MoreThanLight Launcher\obj\Debug\net5.0-windows\MoreThanLight Launcher.csproj.AssemblyReference.cache

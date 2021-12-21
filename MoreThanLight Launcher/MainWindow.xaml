@@ -1,0 +1,28 @@
+﻿<Window x:Class="MoreThanLight_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MoreThanLight_Launcher"
+        mc:Ignorable="d"
+        Title="Launcher v1.0" Height="480" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="More than lie launcher" HorizontalAlignment="Center" FontSize="40" FontWeight="ExtraBold" TextWrapping="NoWrap" ></TextBlock>
+            <TextBox Name="Login" HorizontalAlignment="Center" Width="300" MaxLength="28" ToolTip="Enter name" Margin="30"></TextBox>
+            <TextBox Name="Password" HorizontalAlignment="Center" Width="300" MaxLength="28" ToolTip="Enter password"></TextBox>
+            <Button Name="Enter" Width="150" Height="40" Margin="20" Content="Log in" FontSize="20" HorizontalAlignment="Center" Click="Enter_Click"></Button>
+            <Button Name="Register" Width="100" Height="20" Content="Register" Margin="10" Click="Register_Click"></Button>
+            <Button Name="Launch" Width="200" Height="100" Margin="60" Content="Launch!" FontSize="20" IsEnabled="False" Click="Launch_Click" ></Button>
+        </StackPanel>
+        <Canvas>
+            <TextBlock Text="Not registred yet?" Canvas.Left="347" Canvas.Top="216"/>
+            <TextBlock Name="ErrText" Text="Error, try another login or password" Foreground="Red"  Visibility="Hidden" Canvas.Left="298" Canvas.Top="310"></TextBlock>
+            <TextBlock Name="SuccessText" Text="Success!" Foreground="Green" Visibility="Hidden" Canvas.Left="378" Canvas.Top="310"></TextBlock>
+            <TextBlock Text="Login:" Canvas.Left="251" Canvas.Top="64"></TextBlock>
+            <TextBlock Text="Password:" Canvas.Left="251" Canvas.Top="113"></TextBlock>
+            <TextBlock Text="Account:" Canvas.Left="50" Canvas.Top="413"></TextBlock>
+            <TextBlock Name="AccountDisplayName" Canvas.Left="101" Canvas.Top="412"></TextBlock>
+        </Canvas>
+    </Grid>
+</Window>
