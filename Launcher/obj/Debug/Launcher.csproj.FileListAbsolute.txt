@@ -1,0 +1,16 @@
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\bin\Debug\Launcher.exe
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\App.g.cs
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher_MarkupCompile.cache
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher_MarkupCompile.lref
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\MainWindow.baml
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.g.resources
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.exe
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.pdb
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\Launcher\obj\Debug\Launcher.csproj.AssemblyReference.cache

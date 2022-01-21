@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9fhdc969MLIelCJaE7qVr7CTsWNhrCygzUmhihSLq8edIN+8qHsKYgag9JntR9+f2INMgR4Ln9yny+1CnDdBcQ==",
+  "dgSpecHash": "9ODmXGEvy2Icr1vYbD9+6cashIvMGZdNHhxAhZtRu2PZ56Ssp1O5+UW+6WAfwrh8Ijorops8jOKFxjzjHazDaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Semejkin_AV\\Desktop\\Андрей\\Projects_3\\More_than_lie\\MoreThanLight Launcher\\MoreThanLight Launcher.csproj",
+  "projectFilePath": "C:\\Users\\Anndr\\Documents\\GitHub\\MoreThanLie\\MoreThanLight Launcher\\MoreThanLight Launcher.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Semejkin_AV\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.9\\microsoft.netcore.app.host.win-x64.5.0.9.nupkg.sha512"
+    "C:\\Users\\Anndr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512",
+    "C:\\Users\\Anndr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anndr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Anndr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

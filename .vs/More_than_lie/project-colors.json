@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c4be7dc1-b78e-49bc-866c-447f7d2e62db": {
+      "ProjectGuid": "c4be7dc1-b78e-49bc-866c-447f7d2e62db",
+      "DisplayName": "Launcher",
+      "ColorIndex": 0
+    },
+    "30740372-f53b-45a2-8b96-2505a99de3b8": {
+      "ProjectGuid": "30740372-f53b-45a2-8b96-2505a99de3b8",
+      "DisplayName": "AccountServer",
+      "ColorIndex": 1
+    },
+    "fbe38da2-52a9-4b02-a1c8-3eee5c7c380e": {
+      "ProjectGuid": "fbe38da2-52a9-4b02-a1c8-3eee5c7c380e",
+      "DisplayName": "Launcher",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

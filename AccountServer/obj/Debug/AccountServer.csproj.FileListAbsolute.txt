@@ -1,0 +1,8 @@
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\bin\Debug\AccountServer.exe.config
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\bin\Debug\AccountServer.exe
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\bin\Debug\AccountServer.pdb
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\obj\Debug\AccountServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\obj\Debug\AccountServer.csproj.CoreCompileInputs.cache
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\obj\Debug\AccountServer.exe
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\obj\Debug\AccountServer.pdb
+C:\Users\Anndr\Documents\GitHub\MoreThanLie\AccountServer\obj\Debug\AccountServer.csproj.AssemblyReference.cache

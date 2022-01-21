@@ -8,19 +8,19 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Semejkin_AV\\.nuget\\packages\\": {}
+    "C:\\Users\\Anndr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Semejkin_AV\\Desktop\\Андрей\\Projects_3\\More_than_lie\\MoreThanLight Launcher\\MoreThanLight Launcher.csproj",
+      "projectUniqueName": "C:\\Users\\Anndr\\Documents\\GitHub\\MoreThanLie\\MoreThanLight Launcher\\MoreThanLight Launcher.csproj",
       "projectName": "MoreThanLight Launcher",
-      "projectPath": "C:\\Users\\Semejkin_AV\\Desktop\\Андрей\\Projects_3\\More_than_lie\\MoreThanLight Launcher\\MoreThanLight Launcher.csproj",
-      "packagesPath": "C:\\Users\\Semejkin_AV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Semejkin_AV\\Desktop\\Андрей\\Projects_3\\More_than_lie\\MoreThanLight Launcher\\obj\\",
+      "projectPath": "C:\\Users\\Anndr\\Documents\\GitHub\\MoreThanLie\\MoreThanLight Launcher\\MoreThanLight Launcher.csproj",
+      "packagesPath": "C:\\Users\\Anndr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Anndr\\Documents\\GitHub\\MoreThanLie\\MoreThanLight Launcher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Semejkin_AV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Anndr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -57,8 +57,20 @@
         "warn": true,
         "downloadDependencies": [
           {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[5.0.9, 5.0.9]"
+            "version": "[5.0.13, 5.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
           }
         ],
         "frameworkReferences": {
@@ -69,7 +81,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.1.21458.32\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
